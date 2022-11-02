@@ -1,0 +1,17 @@
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\Vista.exe
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\Vista.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\CONTROLADOR.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\CONTROLADOR.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\MainWindow.baml
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\App.g.cs
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista_MarkupCompile.cache
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.g.resources
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.exe
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.pdb

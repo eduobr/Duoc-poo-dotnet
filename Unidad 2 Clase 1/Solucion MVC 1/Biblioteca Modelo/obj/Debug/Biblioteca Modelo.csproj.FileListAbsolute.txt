@@ -1,0 +1,5 @@
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Modelo\bin\Debug\Biblioteca Modelo.dll
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Modelo\bin\Debug\Biblioteca Modelo.pdb
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Modelo\obj\Debug\ResolveAssemblyReference.cache
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Modelo\obj\Debug\Biblioteca Modelo.dll
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Modelo\obj\Debug\Biblioteca Modelo.pdb

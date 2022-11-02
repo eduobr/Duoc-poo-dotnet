@@ -1,0 +1,17 @@
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\MainWindow.baml
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\App.g.cs
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\VISTA_MarkupCompile.cache
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\VISTA.g.resources
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\VISTA.Properties.Resources.resources
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\bin\Debug\VISTA.exe
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\bin\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\bin\Debug\CONTROLADOR.dll
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\bin\Debug\CONTROLADOR.pdb
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\VISTA.exe
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\VISTA\obj\x86\Debug\VISTA.pdb

@@ -1,0 +1,49 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\bin\Debug\VISTA.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\bin\Debug\VISTA.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\bin\Debug\BIBLIOTECA.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\bin\Debug\BIBLIOTECA.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\MainWindow.baml
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\MainWindow.g.cs
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\App.g.cs
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\VISTA_MarkupCompile.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\VISTA.g.resources
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\VISTA.Properties.Resources.resources
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\VISTA.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\VISTA\obj\x86\Debug\VISTA.pdb
+C:\Users\Edd\Desktop\SOLUCION PRUEBA\VISTA\obj\x86\Debug\VISTA.exe
+C:\Users\Edd\Desktop\SOLUCION PRUEBA\VISTA\obj\x86\Debug\VISTA.pdb
+G:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.exe
+G:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.pdb
+H:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.exe
+H:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.pdb
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.exe
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.pdb
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\bin\Debug\VISTA.exe
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\bin\Debug\VISTA.pdb
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\bin\Debug\BIBLIOTECA.dll
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\bin\Debug\BIBLIOTECA.pdb
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.csprojResolveAssemblyReference.cache
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\MainWindow.baml
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\MainWindow.g.cs
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\App.g.cs
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA_MarkupCompile.cache
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.g.resources
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.Properties.Resources.resources
+E:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.csproj.GenerateResource.Cache
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.exe
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.pdb
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\bin\Debug\VISTA.exe
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\bin\Debug\VISTA.pdb
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\bin\Debug\BIBLIOTECA.dll
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\bin\Debug\BIBLIOTECA.pdb
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.csprojResolveAssemblyReference.cache
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\MainWindow.baml
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\MainWindow.g.cs
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\App.g.cs
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA_MarkupCompile.cache
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.g.resources
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.Properties.Resources.resources
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\VISTA\obj\x86\Debug\VISTA.csproj.GenerateResource.Cache

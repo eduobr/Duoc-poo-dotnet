@@ -1,0 +1,12 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion clase 2\Projecto Clase 2\bin\Debug\Projecto Clase 2.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion clase 2\Projecto Clase 2\bin\Debug\Projecto Clase 2.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion clase 2\Projecto Clase 2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion clase 2\Projecto Clase 2\obj\x86\Debug\Projecto Clase 2.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion clase 2\Projecto Clase 2\obj\x86\Debug\Projecto Clase 2.pdb
+G:\POO .NET 2\Solucion clase 2\Projecto Clase 2\obj\x86\Debug\Projecto Clase 2.exe
+G:\POO .NET 2\Solucion clase 2\Projecto Clase 2\obj\x86\Debug\Projecto Clase 2.pdb
+G:\POO .NET 2\Solucion clase 2\Projecto Clase 2\bin\Debug\Projecto Clase 2.exe
+G:\POO .NET 2\Solucion clase 2\Projecto Clase 2\bin\Debug\Projecto Clase 2.pdb
+G:\POO .NET 2\Solucion clase 2\Projecto Clase 2\obj\x86\Debug\Projecto Clase 2.csprojResolveAssemblyReference.cache
+D:\POO .NET 2\Solucion clase 2\Projecto Clase 2\obj\x86\Debug\Projecto Clase 2.exe
+D:\POO .NET 2\Solucion clase 2\Projecto Clase 2\obj\x86\Debug\Projecto Clase 2.pdb

@@ -1,0 +1,5 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Biblioteca\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Biblioteca\bin\Debug\Biblioteca.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Biblioteca\obj\Debug\Biblioteca.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Biblioteca\obj\Debug\Biblioteca.pdb

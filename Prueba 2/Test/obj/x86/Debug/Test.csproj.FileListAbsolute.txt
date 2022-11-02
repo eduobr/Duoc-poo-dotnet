@@ -1,0 +1,23 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Test\bin\Debug\Test.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Test\bin\Debug\Test.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Test\bin\Debug\Biblioteca de Clases.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Test\bin\Debug\Biblioteca de Clases.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Test\obj\x86\Debug\Test.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Test\obj\x86\Debug\Test.pdb
+D:\POO .NET 2\Prueba 2\Test\obj\x86\Debug\Test.exe
+D:\POO .NET 2\Prueba 2\Test\bin\Debug\Test.exe
+D:\POO .NET 2\Prueba 2\Test\bin\Debug\Test.pdb
+D:\POO .NET 2\Prueba 2\Test\bin\Debug\Biblioteca de Clases.dll
+D:\POO .NET 2\Prueba 2\Test\bin\Debug\Biblioteca de Clases.pdb
+D:\POO .NET 2\Prueba 2\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\POO .NET 2\Prueba 2\Test\obj\x86\Debug\Test.pdb
+G:\POO .NET 2\Prueba 2\Test\obj\x86\Debug\Test.exe
+G:\POO .NET 2\Prueba 2\Test\obj\x86\Debug\Test.pdb
+G:\POO .NET 2\Prueba 2\Test\bin\Debug\Test.exe
+G:\POO .NET 2\Prueba 2\Test\bin\Debug\Test.pdb
+G:\POO .NET 2\Prueba 2\Test\bin\Debug\Biblioteca de Clases.dll
+G:\POO .NET 2\Prueba 2\Test\bin\Debug\Biblioteca de Clases.pdb
+G:\POO .NET 2\Prueba 2\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\POO .NET 2\Prueba 2\Test\obj\x86\Debug\Test.exe
+D:\Respaldo\Respaldo Duoc\POO .NET 2\Prueba 2\Test\obj\x86\Debug\Test.pdb

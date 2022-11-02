@@ -1,0 +1,31 @@
+﻿<Window x:Class="Vista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Vista" Height="350" Width="525" Background="#FFCF4A00" Loaded="Window_Loaded">
+    <Window.Foreground>
+        <ImageBrush ImageSource="/Vista;component/Images/Koala.jpg" />
+    </Window.Foreground>
+    <Grid Visibility="Visible">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Vista;component/Images/Lighthouse.jpg" Stretch="UniformToFill" TileMode="None" />
+        </Grid.Background>
+        <Label Content="Rut:" Height="28" HorizontalAlignment="Left" Margin="12,28,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Nombre:" Height="28" HorizontalAlignment="Left" Margin="12,62,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Apellido:" Height="28" HorizontalAlignment="Left" Margin="12,96,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Edad:" Height="28" HorizontalAlignment="Left" Margin="12,130,0,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="Sexo" Height="28" HorizontalAlignment="Left" Margin="12,164,0,0" Name="label5" VerticalAlignment="Top" />
+        <TextBox HorizontalAlignment="Left" Margin="74,33,0,255" Name="txtRut" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="74,62,0,0" Name="txtNombre" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="74,96,0,0" Name="txtApellido" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="74,135,0,0" Name="txtEdad" VerticalAlignment="Top" Width="120" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="74,169,0,0" Name="cboSexo" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Femenino" />
+            <ComboBoxItem Content="Masculino" />
+        </ComboBox>
+        <Label Content="Indique tamaño del arreglo" Height="28" HorizontalAlignment="Left" Margin="328,33,0,0" Name="label6" VerticalAlignment="Top" Foreground="Black" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="328,67,0,0" Name="txtTamano" VerticalAlignment="Top" Width="59" />
+        <Button Content="Crear Arreglo" Height="23" HorizontalAlignment="Left" Margin="393,67,0,0" Name="btnCrearArreglo" VerticalAlignment="Top" Width="81" Click="btnCrearArreglo_Click" />
+        <Button Content="Grabar" Height="23" HorizontalAlignment="Left" Margin="40,222,0,0" Name="btnGrabar" VerticalAlignment="Top" Width="75" Click="btnGrabar_Click" />
+        <Button Content="Listar" Height="23" HorizontalAlignment="Left" Margin="138,222,0,0" Name="btnListar" VerticalAlignment="Top" Width="75" />
+    </Grid>
+</Window>

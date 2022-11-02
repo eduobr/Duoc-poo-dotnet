@@ -1,0 +1,35 @@
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\MainWindow.baml
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\App.g.cs
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\Vision_MarkupCompile.cache
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.g.resources
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.Properties.Resources.resources
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\bin\Debug\Vision.exe
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\bin\Debug\Vision.pdb
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.exe
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.pdb
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\bin\Debug\BIBLIOTECA DE CLASES.dll
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Vision\bin\Debug\BIBLIOTECA DE CLASES.pdb
+F:\POO .NET 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.exe
+F:\POO .NET 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.pdb
+F:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.exe
+F:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.pdb
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.exe
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.pdb
+D:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.exe
+D:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.pdb
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\bin\Debug\Vision.exe
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\bin\Debug\Vision.pdb
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\bin\Debug\BIBLIOTECA DE CLASES.dll
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\bin\Debug\BIBLIOTECA DE CLASES.pdb
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.csprojResolveAssemblyReference.cache
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\MainWindow.baml
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\MainWindow.g.cs
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\App.g.cs
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision_MarkupCompile.cache
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.g.resources
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.Properties.Resources.resources
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Vision\obj\x86\Debug\Vision.csproj.GenerateResource.Cache

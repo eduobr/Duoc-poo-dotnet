@@ -1,0 +1,14 @@
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Test\bin\Debug\Test.exe
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Test\bin\Debug\Test.pdb
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Test\bin\Debug\BIBLIOTECA DE CLASES.dll
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Test\bin\Debug\BIBLIOTECA DE CLASES.pdb
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Test\obj\x86\Debug\Test.exe
+C:\Users\Duoc\Desktop\FARMACIA COPITO\Test\obj\x86\Debug\Test.pdb
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Test\bin\Debug\Test.exe
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Test\bin\Debug\Test.pdb
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Test\bin\Debug\BIBLIOTECA DE CLASES.dll
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Test\bin\Debug\BIBLIOTECA DE CLASES.pdb
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Test\obj\x86\Debug\Test.exe
+G:\POO .NET 2\Unidad 2 ejercicio 2\FARMACIA COPITO\Test\obj\x86\Debug\Test.pdb

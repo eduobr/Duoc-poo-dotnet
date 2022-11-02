@@ -1,0 +1,7 @@
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\TEST\bin\Debug\TEST.exe
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\TEST\bin\Debug\TEST.pdb
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\TEST\bin\Debug\BIBLIOTECA.dll
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\TEST\bin\Debug\BIBLIOTECA.pdb
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\TEST\obj\x86\Debug\TEST.csprojResolveAssemblyReference.cache
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\TEST\obj\x86\Debug\TEST.exe
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\TEST\obj\x86\Debug\TEST.pdb

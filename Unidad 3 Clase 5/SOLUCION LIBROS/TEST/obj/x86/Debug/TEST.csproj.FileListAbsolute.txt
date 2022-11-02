@@ -1,0 +1,7 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION LIBROS\TEST\bin\Debug\TEST.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION LIBROS\TEST\bin\Debug\TEST.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION LIBROS\TEST\bin\Debug\BIBLIOTECA.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION LIBROS\TEST\bin\Debug\BIBLIOTECA.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION LIBROS\TEST\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION LIBROS\TEST\obj\x86\Debug\TEST.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION LIBROS\TEST\obj\x86\Debug\TEST.pdb

@@ -1,0 +1,15 @@
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\bin\Debug\VISTA.exe
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\bin\Debug\VISTA.pdb
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\bin\Debug\BIBLIOTECA.dll
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\bin\Debug\BIBLIOTECA.pdb
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\obj\x86\Debug\MainWindow.baml
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\obj\x86\Debug\MainWindow.g.cs
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\obj\x86\Debug\App.g.cs
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\obj\x86\Debug\VISTA_MarkupCompile.cache
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\obj\x86\Debug\VISTA.g.resources
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\obj\x86\Debug\VISTA.Properties.Resources.resources
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\obj\x86\Debug\VISTA.csproj.GenerateResource.Cache
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\obj\x86\Debug\VISTA.exe
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\VISTA\obj\x86\Debug\VISTA.pdb
+G:\POO .NET 2\PRUEBA 3\Unidad 3 Solucion CP03\VISTA\obj\x86\Debug\VISTA.exe
+G:\POO .NET 2\PRUEBA 3\Unidad 3 Solucion CP03\VISTA\obj\x86\Debug\VISTA.pdb

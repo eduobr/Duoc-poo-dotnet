@@ -1,0 +1,10 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\BibClases\bin\Debug\BibClases.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\BibClases\bin\Debug\BibClases.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\BibClases\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\BibClases\obj\Debug\BibClases.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\BibClases\obj\Debug\BibClases.pdb
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\BibClases\bin\Debug\BibClases.dll
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\BibClases\bin\Debug\BibClases.pdb
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\BibClases\obj\Debug\BibClases.csprojResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\BibClases\obj\Debug\BibClases.dll
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\BibClases\obj\Debug\BibClases.pdb

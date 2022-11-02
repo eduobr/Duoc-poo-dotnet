@@ -1,0 +1,48 @@
+﻿<Window x:Class="Vista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="IngresoPacientes" Height="592" Width="605">
+    <Grid Background="#FF007DAE">
+        <GroupBox Header="Paciente" Height="179" HorizontalAlignment="Left" Margin="9,7,0,0" Name="gbPaciente" VerticalAlignment="Top" Width="484">
+            <Grid>
+                <Label Content="Numero Ficha" Height="28" HorizontalAlignment="Left" Margin="11,20,0,0" Name="label1" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="101,20,0,0" Name="txtNumeroFicha" VerticalAlignment="Top" Width="39" />
+                <Label Content="Nombre" Height="28" HorizontalAlignment="Left" Margin="158,20,0,0" Name="label2" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="218,20,0,0" Name="txtNombrePaciente" VerticalAlignment="Top" Width="120" />
+                <Label Content="Edad" Height="28" HorizontalAlignment="Left" Margin="357,20,0,0" Name="label3" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="399,20,0,0" Name="txtEdadPaciente" VerticalAlignment="Top" Width="48" />
+                <Label Content="Salud" Height="28" HorizontalAlignment="Left" Margin="11,61,0,0" Name="label4" VerticalAlignment="Top" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="56,63,0,0" Name="cboSaludPaciente" VerticalAlignment="Top" Width="120" />
+                <Label Content="Fecha" Height="28" HorizontalAlignment="Left" Margin="182,63,0,0" Name="label5" VerticalAlignment="Top" />
+                <DatePicker Height="25" HorizontalAlignment="Left" Margin="223,64,0,0" Name="dpFechaPaciente" VerticalAlignment="Top" Width="115" />
+                <Label Content="Hora" Height="28" HorizontalAlignment="Left" Margin="355,63,0,0" Name="label6" VerticalAlignment="Top" />
+                <TextBox Height="26" HorizontalAlignment="Left" Margin="400,63,0,0" Name="txtFecha" VerticalAlignment="Top" Width="47" />
+                <Label Content="Tipo Paciente" Height="28" HorizontalAlignment="Left" Margin="12,102,0,0" Name="label13" VerticalAlignment="Top" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="103,102,0,0" Name="cboTipoPaciente" VerticalAlignment="Top" Width="120" SelectionChanged="cboTipoPaciente_SelectionChanged" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Adulto" Height="95" HorizontalAlignment="Left" Margin="12,204,0,0" Name="gbAdulto" VerticalAlignment="Top" Width="212">
+            <Grid>
+                <Label Content="Trabajo" Height="28" HorizontalAlignment="Left" Margin="8,22,0,0" Name="label7" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="64,24,0,0" Name="txtTrabajoAdulto" VerticalAlignment="Top" Width="109" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Niño" Height="86" HorizontalAlignment="Left" Margin="243,204,0,0" Name="gbNiño" VerticalAlignment="Top" Width="244">
+            <Grid Height="73">
+                <Label Content="Colegio" Height="28" HorizontalAlignment="Left" Margin="6,16,0,0" Name="label8" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="63,16,0,0" Name="txtColegioNiño" VerticalAlignment="Top" Width="120" />
+            </Grid>
+        </GroupBox>
+        <ListBox Height="194" HorizontalAlignment="Left" Margin="17,320,0,0" Name="lstListar" VerticalAlignment="Top" Width="218" />
+        <Label Content="Fecha Mayor Atencion" Height="28" HorizontalAlignment="Left" Margin="255,320,0,0" Name="label9" VerticalAlignment="Top" />
+        <Label Content="Fecha Menor Atencion" Height="28" HorizontalAlignment="Left" Margin="255,366,0,0" Name="label10" VerticalAlignment="Top" />
+        <Label Content="Numero de Adultos Isapre" Height="28" HorizontalAlignment="Left" Margin="255,411,0,0" Name="label11" VerticalAlignment="Top" />
+        <Label Content="Adultos con hora antes de las 13" Height="28" HorizontalAlignment="Left" Margin="255,455,0,0" Name="label12" VerticalAlignment="Top" />
+        <Button Content="Datos Estadisticos" Height="23" HorizontalAlignment="Left" Margin="256,487,0,0" Name="btnEstadisticas" VerticalAlignment="Top" Width="223" />
+        <Label Height="24" HorizontalAlignment="Left" Margin="394,324,0,0" Name="lblLinQ1" VerticalAlignment="Top" Width="84" Background="#FFEB2121" />
+        <Label Height="25" HorizontalAlignment="Left" Margin="398,366,0,0" Name="lblLinQ2" VerticalAlignment="Top" Width="81" Background="#FFDB1C1C" />
+        <Label Height="22" HorizontalAlignment="Left" Margin="405,411,0,0" Name="lblLinQ3" VerticalAlignment="Top" Width="82" Background="#FFE80606" />
+        <Label Height="23" HorizontalAlignment="Left" Margin="443,456,0,0" Name="lblLinQ4" VerticalAlignment="Top" Width="57" Background="#FFEB1818" />
+        <Button Content="Grabar" Height="51" HorizontalAlignment="Left" Margin="493,220,0,0" Name="btnGrabar" VerticalAlignment="Top" Width="58" Click="btnGrabar_Click" />
+    </Grid>
+</Window>

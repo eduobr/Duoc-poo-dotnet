@@ -1,0 +1,11 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Ejercicio\bin\Debug\Ejercicio.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Ejercicio\bin\Debug\Ejercicio.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Ejercicio\bin\Debug\Biblioteca.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Ejercicio\bin\Debug\Biblioteca.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Ejercicio\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Ejercicio\obj\x86\Debug\Ejercicio.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 1\Ejercicio\obj\x86\Debug\Ejercicio.pdb
+G:\POO .NET 2\Solucion Clase 1\Ejercicio\obj\x86\Debug\Ejercicio.exe
+G:\POO .NET 2\Solucion Clase 1\Ejercicio\obj\x86\Debug\Ejercicio.pdb
+D:\POO .NET 2\Solucion Clase 1\Ejercicio\obj\x86\Debug\Ejercicio.exe
+D:\POO .NET 2\Solucion Clase 1\Ejercicio\obj\x86\Debug\Ejercicio.pdb

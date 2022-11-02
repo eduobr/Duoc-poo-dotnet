@@ -1,0 +1,30 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\bin\Debug\WPF.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\bin\Debug\WPF.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\bin\Debug\Biblioteca de Clases.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\bin\Debug\Biblioteca de Clases.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\MainWindow.baml
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\MainWindow.g.cs
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\App.g.cs
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\WPF_MarkupCompile.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\WPF.g.resources
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\WPF.Properties.Resources.resources
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\WPF.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\WPF\obj\x86\Debug\WPF.pdb
+D:\POO .NET 2\Prueba 2\WPF\bin\Debug\WPF.exe
+D:\POO .NET 2\Prueba 2\WPF\bin\Debug\WPF.pdb
+D:\POO .NET 2\Prueba 2\WPF\bin\Debug\Biblioteca de Clases.dll
+D:\POO .NET 2\Prueba 2\WPF\bin\Debug\Biblioteca de Clases.pdb
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\MainWindow.baml
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\MainWindow.g.cs
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\App.g.cs
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\WPF_MarkupCompile.cache
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\WPF.g.resources
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\WPF.Properties.Resources.resources
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\WPF.exe
+D:\POO .NET 2\Prueba 2\WPF\obj\x86\Debug\WPF.pdb

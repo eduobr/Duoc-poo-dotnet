@@ -1,0 +1,19 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 3\Proyecto Clase 3\bin\Debug\Proyecto Clase 3.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 3\Proyecto Clase 3\bin\Debug\Proyecto Clase 3.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.pdb
+D:\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.exe
+D:\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.pdb
+D:\Solucion Clase 3\Proyecto Clase 3\bin\Debug\Proyecto Clase 3.exe
+D:\Solucion Clase 3\Proyecto Clase 3\bin\Debug\Proyecto Clase 3.pdb
+D:\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\POO .NET 2\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.exe
+G:\POO .NET 2\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.pdb
+G:\POO .NET 2\Solucion Clase 3\Proyecto Clase 3\bin\Debug\Proyecto Clase 3.exe
+G:\POO .NET 2\Solucion Clase 3\Proyecto Clase 3\bin\Debug\Proyecto Clase 3.pdb
+G:\POO .NET 2\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.csprojResolveAssemblyReference.cache
+F:\POO .NET 2\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.exe
+F:\POO .NET 2\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.pdb
+D:\POO .NET 2\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.exe
+D:\POO .NET 2\Solucion Clase 3\Proyecto Clase 3\obj\x86\Debug\Proyecto Clase 3.pdb

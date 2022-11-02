@@ -1,0 +1,10 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION HERENCIA 1\BIBLIOTECA\bin\Debug\BIBLIOTECA.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION HERENCIA 1\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION HERENCIA 1\BIBLIOTECA\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION HERENCIA 1\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION HERENCIA 1\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\BIBLIOTECA\bin\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\BIBLIOTECA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Desktop\SOLUCION HERENCIA 1\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb

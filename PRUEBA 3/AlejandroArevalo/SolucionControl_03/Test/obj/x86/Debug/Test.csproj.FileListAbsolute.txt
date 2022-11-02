@@ -1,0 +1,7 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Test\bin\Debug\Test.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Test\bin\Debug\Test.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Test\bin\Debug\BibClases.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Test\bin\Debug\BibClases.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Test\obj\x86\Debug\Test.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Test\obj\x86\Debug\Test.pdb

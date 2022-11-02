@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BIBLIOTECA.CL_BUS" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAEAAAAAAAAQAEAABAAAAAACAgAAAAA=</HashCode>
+      <FileName>CL_BUS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIBLIOTECA.CL_INTERNACIONAL" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAABAAAAgAAAAARAAAAAACAAAAAAA=</HashCode>
+      <FileName>CL_INTERNACIONAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BIBLIOTECA.CL_URBANO" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAABAAAAAAAAAARAAAAAACAgAAAAA=</HashCode>
+      <FileName>CL_URBANO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="BIBLIOTECA.IBus" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBus.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BIBLIOTECA.TipoPais" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAQAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ENUMERADORES.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BIBLIOTECA.TipoDestino" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ENUMERADORES.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

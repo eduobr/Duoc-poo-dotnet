@@ -1,0 +1,17 @@
+c:\users\duoc\documents\visual studio 2010\Projects\EjercicioN3\EjercicioN3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\EjercicioN3\EjercicioN3\bin\Debug\EjercicioN3.exe
+c:\users\duoc\documents\visual studio 2010\Projects\EjercicioN3\EjercicioN3\bin\Debug\EjercicioN3.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\EjercicioN3\EjercicioN3\obj\x86\Debug\EjercicioN3.exe
+c:\users\duoc\documents\visual studio 2010\Projects\EjercicioN3\EjercicioN3\obj\x86\Debug\EjercicioN3.pdb
+G:\POO .NET 2\EjercicioN3\EjercicioN3\obj\x86\Debug\EjercicioN3.exe
+G:\POO .NET 2\EjercicioN3\EjercicioN3\obj\x86\Debug\EjercicioN3.pdb
+G:\POO .NET 2\EjercicioN3\EjercicioN3\bin\Debug\EjercicioN3.exe
+G:\POO .NET 2\EjercicioN3\EjercicioN3\bin\Debug\EjercicioN3.pdb
+G:\POO .NET 2\EjercicioN3\EjercicioN3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\POO .NET 2\EjercicioN3\EjercicioN3\obj\x86\Debug\EjercicioN3.exe
+F:\POO .NET 2\EjercicioN3\EjercicioN3\obj\x86\Debug\EjercicioN3.pdb
+F:\POO .NET 2\EjercicioN3\EjercicioN3\bin\Debug\EjercicioN3.exe
+F:\POO .NET 2\EjercicioN3\EjercicioN3\bin\Debug\EjercicioN3.pdb
+F:\POO .NET 2\EjercicioN3\EjercicioN3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\POO .NET 2\EjercicioN3\EjercicioN3\obj\x86\Debug\EjercicioN3.exe
+D:\Respaldo\Respaldo Duoc\POO .NET 2\EjercicioN3\EjercicioN3\obj\x86\Debug\EjercicioN3.pdb

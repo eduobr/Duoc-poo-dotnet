@@ -1,0 +1,16 @@
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Test\bin\Debug\Test.exe.config
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Test\bin\Debug\Test.exe
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Test\bin\Debug\Test.pdb
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Test\bin\Debug\Biblioteca Semestre 3.dll
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Test\bin\Debug\Biblioteca Semestre 3.pdb
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Test\obj\Debug\Test.exe
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Test\obj\Debug\Test.pdb
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Test\bin\Debug\Test.exe.config
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Test\obj\Debug\Test.pdb
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Test\bin\Debug\Test.exe
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Test\bin\Debug\Test.pdb
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Test\bin\Debug\Biblioteca Semestre 3.dll
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Test\bin\Debug\Biblioteca Semestre 3.pdb
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Test\obj\Debug\Test.exe

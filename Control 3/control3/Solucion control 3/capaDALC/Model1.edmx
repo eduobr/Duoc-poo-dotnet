@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="CONDORESModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="CONDORESModelStoreContainer">
+          <EntitySet Name="ALUMNO" EntityType="CONDORESModel.Store.ALUMNO" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="PROFESOR" EntityType="CONDORESModel.Store.PROFESOR" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="USUARIO" EntityType="CONDORESModel.Store.USUARIO" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK_PROF_ALUM" Association="CONDORESModel.Store.FK_PROF_ALUM">
+            <End Role="PROFESOR" EntitySet="PROFESOR" />
+            <End Role="ALUMNO" EntitySet="ALUMNO" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="ALUMNO">
+          <Key>
+            <PropertyRef Name="IDALUMNO" />
+          </Key>
+          <Property Name="IDALUMNO" Type="int" Nullable="false" />
+          <Property Name="NOMBRE" Type="varchar" Nullable="false" MaxLength="45" />
+          <Property Name="FECHA_NACIMIENTO" Type="date" Nullable="false" />
+          <Property Name="SEXO" Type="char" Nullable="false" MaxLength="1" />
+          <Property Name="APODERADO" Type="varchar" Nullable="false" MaxLength="45" />
+          <Property Name="PROFESOR_IDPROFESOR" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PROFESOR">
+          <Key>
+            <PropertyRef Name="IDPROFESOR" />
+          </Key>
+          <Property Name="IDPROFESOR" Type="int" Nullable="false" />
+          <Property Name="NOMBRE" Type="varchar" Nullable="false" MaxLength="45" />
+          <Property Name="ASIGNATURA" Type="varchar" Nullable="false" MaxLength="45" />
+          <Property Name="CURSO" Type="varchar" Nullable="false" MaxLength="45" />
+        </EntityType>
+        <EntityType Name="USUARIO">
+          <Key>
+            <PropertyRef Name="IDUSUARIO" />
+          </Key>
+          <Property Name="IDUSUARIO" Type="int" Nullable="false" />
+          <Property Name="USUARIO" Type="varchar" Nullable="false" MaxLength="45" />
+          <Property Name="PASSWORD" Type="varchar" Nullable="false" MaxLength="45" />
+        </EntityType>
+        <Association Name="FK_PROF_ALUM">
+          <End Role="PROFESOR" Type="CONDORESModel.Store.PROFESOR" Multiplicity="1" />
+          <End Role="ALUMNO" Type="CONDORESModel.Store.ALUMNO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="PROFESOR">
+              <PropertyRef Name="IDPROFESOR" />
+            </Principal>
+            <Dependent Role="ALUMNO">
+              <PropertyRef Name="PROFESOR_IDPROFESOR" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="CONDORESModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="CONDORESEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="ALUMNO" EntityType="CONDORESModel.ALUMNO" />
+          <EntitySet Name="PROFESOR" EntityType="CONDORESModel.PROFESOR" />
+          <EntitySet Name="USUARIO" EntityType="CONDORESModel.USUARIO" />
+          <AssociationSet Name="FK_PROF_ALUM" Association="CONDORESModel.FK_PROF_ALUM">
+            <End Role="PROFESOR" EntitySet="PROFESOR" />
+            <End Role="ALUMNO" EntitySet="ALUMNO" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="ALUMNO">
+          <Key>
+            <PropertyRef Name="IDALUMNO" />
+          </Key>
+          <Property Name="IDALUMNO" Type="Int32" Nullable="false" />
+          <Property Name="NOMBRE" Type="String" Nullable="false" MaxLength="45" Unicode="false" FixedLength="false" />
+          <Property Name="FECHA_NACIMIENTO" Type="DateTime" Nullable="false" />
+          <Property Name="SEXO" Type="String" Nullable="false" MaxLength="1" Unicode="false" FixedLength="true" />
+          <Property Name="APODERADO" Type="String" Nullable="false" MaxLength="45" Unicode="false" FixedLength="false" />
+          <Property Name="PROFESOR_IDPROFESOR" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="PROFESOR" Relationship="CONDORESModel.FK_PROF_ALUM" FromRole="ALUMNO" ToRole="PROFESOR" />
+        </EntityType>
+        <EntityType Name="PROFESOR">
+          <Key>
+            <PropertyRef Name="IDPROFESOR" />
+          </Key>
+          <Property Name="IDPROFESOR" Type="Int32" Nullable="false" />
+          <Property Name="NOMBRE" Type="String" Nullable="false" MaxLength="45" Unicode="false" FixedLength="false" />
+          <Property Name="ASIGNATURA" Type="String" Nullable="false" MaxLength="45" Unicode="false" FixedLength="false" />
+          <Property Name="CURSO" Type="String" Nullable="false" MaxLength="45" Unicode="false" FixedLength="false" />
+          <NavigationProperty Name="ALUMNO" Relationship="CONDORESModel.FK_PROF_ALUM" FromRole="PROFESOR" ToRole="ALUMNO" />
+        </EntityType>
+        <EntityType Name="USUARIO">
+          <Key>
+            <PropertyRef Name="IDUSUARIO" />
+          </Key>
+          <Property Name="IDUSUARIO" Type="Int32" Nullable="false" />
+          <Property Name="USUARIO1" Type="String" Nullable="false" MaxLength="45" Unicode="false" FixedLength="false" />
+          <Property Name="PASSWORD" Type="String" Nullable="false" MaxLength="45" Unicode="false" FixedLength="false" />
+        </EntityType>
+        <Association Name="FK_PROF_ALUM">
+          <End Role="PROFESOR" Type="CONDORESModel.PROFESOR" Multiplicity="1" />
+          <End Role="ALUMNO" Type="CONDORESModel.ALUMNO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="PROFESOR">
+              <PropertyRef Name="IDPROFESOR" />
+            </Principal>
+            <Dependent Role="ALUMNO">
+              <PropertyRef Name="PROFESOR_IDPROFESOR" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="CONDORESModelStoreContainer" CdmEntityContainer="CONDORESEntities">
+          <EntitySetMapping Name="ALUMNO"><EntityTypeMapping TypeName="CONDORESModel.ALUMNO"><MappingFragment StoreEntitySet="ALUMNO">
+            <ScalarProperty Name="IDALUMNO" ColumnName="IDALUMNO" />
+            <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+            <ScalarProperty Name="FECHA_NACIMIENTO" ColumnName="FECHA_NACIMIENTO" />
+            <ScalarProperty Name="SEXO" ColumnName="SEXO" />
+            <ScalarProperty Name="APODERADO" ColumnName="APODERADO" />
+            <ScalarProperty Name="PROFESOR_IDPROFESOR" ColumnName="PROFESOR_IDPROFESOR" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="PROFESOR"><EntityTypeMapping TypeName="CONDORESModel.PROFESOR"><MappingFragment StoreEntitySet="PROFESOR">
+            <ScalarProperty Name="IDPROFESOR" ColumnName="IDPROFESOR" />
+            <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+            <ScalarProperty Name="ASIGNATURA" ColumnName="ASIGNATURA" />
+            <ScalarProperty Name="CURSO" ColumnName="CURSO" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="USUARIO"><EntityTypeMapping TypeName="CONDORESModel.USUARIO"><MappingFragment StoreEntitySet="USUARIO">
+            <ScalarProperty Name="IDUSUARIO" ColumnName="IDUSUARIO" />
+            <ScalarProperty Name="USUARIO1" ColumnName="USUARIO" />
+            <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="Model1">
+        <EntityTypeShape EntityType="CONDORESModel.ALUMNO" Width="1.5" PointX="3" PointY="1" Height="2.3648893229166665" IsExpanded="true" />
+        <EntityTypeShape EntityType="CONDORESModel.PROFESOR" Width="1.5" PointX="0.75" PointY="1.125" Height="1.9802864583333335" IsExpanded="true" />
+        <EntityTypeShape EntityType="CONDORESModel.USUARIO" Width="1.5" PointX="0.75" PointY="4.75" Height="1.5956835937499996" IsExpanded="true" />
+        <AssociationConnector Association="CONDORESModel.FK_PROF_ALUM" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="2.1151432291666667" />
+          <ConnectorPoint PointX="3" PointY="2.1151432291666667" />
+        </AssociationConnector>
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

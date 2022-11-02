@@ -1,0 +1,10 @@
+C:\Users\Duoc\Documents\Visual Studio 2010\Projects\SOLUCION CLINICA 1\BIBLIOTECA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Documents\Visual Studio 2010\Projects\SOLUCION CLINICA 1\BIBLIOTECA\bin\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Documents\Visual Studio 2010\Projects\SOLUCION CLINICA 1\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Duoc\Documents\Visual Studio 2010\Projects\SOLUCION CLINICA 1\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Documents\Visual Studio 2010\Projects\SOLUCION CLINICA 1\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\BIBLIOTECA\bin\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\BIBLIOTECA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb

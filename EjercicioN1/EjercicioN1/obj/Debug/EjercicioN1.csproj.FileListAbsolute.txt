@@ -1,0 +1,6 @@
+c:\users\eduardo\documents\visual studio 2013\Projects\EjercicioN1\EjercicioN1\bin\Debug\EjercicioN1.exe.config
+c:\users\eduardo\documents\visual studio 2013\Projects\EjercicioN1\EjercicioN1\bin\Debug\EjercicioN1.exe
+c:\users\eduardo\documents\visual studio 2013\Projects\EjercicioN1\EjercicioN1\bin\Debug\EjercicioN1.pdb
+c:\users\eduardo\documents\visual studio 2013\Projects\EjercicioN1\EjercicioN1\obj\Debug\EjercicioN1.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2013\Projects\EjercicioN1\EjercicioN1\obj\Debug\EjercicioN1.exe
+c:\users\eduardo\documents\visual studio 2013\Projects\EjercicioN1\EjercicioN1\obj\Debug\EjercicioN1.pdb

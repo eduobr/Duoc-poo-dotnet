@@ -1,0 +1,7 @@
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\CONTROLADOR\bin\Debug\CONTROLADOR.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\CONTROLADOR\bin\Debug\CONTROLADOR.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\CONTROLADOR\bin\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\CONTROLADOR\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\CONTROLADOR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\CONTROLADOR\obj\Debug\CONTROLADOR.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\CONTROLADOR\obj\Debug\CONTROLADOR.pdb

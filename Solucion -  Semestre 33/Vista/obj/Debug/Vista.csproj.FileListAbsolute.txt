@@ -1,0 +1,48 @@
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\bin\Debug\Vista.exe.config
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\bin\Debug\Vista.exe
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\bin\Debug\Vista.pdb
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\bin\Debug\Biblioteca Semestre 3.dll
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\bin\Debug\Biblioteca Semestre 3.pdb
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\MainWindow.g.cs
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\App.g.cs
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\MainWindow.baml
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\Vista.g.resources
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\Vista.exe
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Debug\Vista.pdb
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\bin\Debug\Vista.exe.config
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\bin\Debug\Vista.exe
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\bin\Debug\Vista.pdb
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\bin\Debug\Biblioteca Semestre 3.dll
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\bin\Debug\Biblioteca Semestre 3.pdb
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\MainWindow.g.cs
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\App.g.cs
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\Vista_MarkupCompile.cache
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\Vista_MarkupCompile.lref
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\MainWindow.baml
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\Vista.g.resources
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\Vista.Properties.Resources.resources
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\Vista.exe
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\Vista.pdb
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\bin\Debug\Vista.exe.config
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\Vista.exe
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\Vista.pdb
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\bin\Debug\Vista.exe
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\bin\Debug\Vista.pdb
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\bin\Debug\Biblioteca Semestre 3.dll
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\bin\Debug\Biblioteca Semestre 3.pdb
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\MainWindow.g.cs
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\App.g.cs
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\MainWindow.baml
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\Vista.g.resources
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache

@@ -1,0 +1,15 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Biblioteca de Clases\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Prueba 2\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.pdb
+D:\POO .NET 2\Prueba 2\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.dll
+D:\POO .NET 2\Prueba 2\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.pdb
+D:\POO .NET 2\Prueba 2\Biblioteca de Clases\obj\Debug\ResolveAssemblyReference.cache
+D:\POO .NET 2\Prueba 2\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.dll
+D:\POO .NET 2\Prueba 2\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.pdb
+G:\POO .NET 2\Prueba 2\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.dll
+G:\POO .NET 2\Prueba 2\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.pdb
+G:\POO .NET 2\Prueba 2\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.csprojResolveAssemblyReference.cache
+G:\POO .NET 2\Prueba 2\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.dll
+G:\POO .NET 2\Prueba 2\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.pdb

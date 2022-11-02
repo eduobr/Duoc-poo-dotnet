@@ -1,0 +1,10 @@
+c:\users\duoc\documents\visual studio 2010\Projects\APLICACION EN 2 CAPAS\BIBLIOTECA EJERCICIO\bin\Debug\BIBLIOTECA EJERCICIO.dll
+c:\users\duoc\documents\visual studio 2010\Projects\APLICACION EN 2 CAPAS\BIBLIOTECA EJERCICIO\bin\Debug\BIBLIOTECA EJERCICIO.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\APLICACION EN 2 CAPAS\BIBLIOTECA EJERCICIO\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\APLICACION EN 2 CAPAS\BIBLIOTECA EJERCICIO\obj\Debug\BIBLIOTECA EJERCICIO.dll
+c:\users\duoc\documents\visual studio 2010\Projects\APLICACION EN 2 CAPAS\BIBLIOTECA EJERCICIO\obj\Debug\BIBLIOTECA EJERCICIO.pdb
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\BIBLIOTECA EJERCICIO\bin\Debug\BIBLIOTECA EJERCICIO.dll
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\BIBLIOTECA EJERCICIO\bin\Debug\BIBLIOTECA EJERCICIO.pdb
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\BIBLIOTECA EJERCICIO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\BIBLIOTECA EJERCICIO\obj\Debug\BIBLIOTECA EJERCICIO.dll
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\BIBLIOTECA EJERCICIO\obj\Debug\BIBLIOTECA EJERCICIO.pdb

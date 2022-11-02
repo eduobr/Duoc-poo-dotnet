@@ -1,0 +1,35 @@
+﻿<Window x:Class="VISTA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ingreso Libros" Height="498" Width="591" Background="#FF1565B4" Loaded="Window_Loaded">
+    <Grid Width="604">
+        <GroupBox Header="Libro" Height="414" HorizontalAlignment="Left" Margin="30,33,0,0" Name="groupBox1" VerticalAlignment="Top" Width="259">
+            <Grid>
+                <Label Content="Titulo:" Height="28" HorizontalAlignment="Left" Margin="6,6,0,0" Name="label1" VerticalAlignment="Top" />
+                <Label Content="Año:" Height="28" HorizontalAlignment="Left" Margin="6,40,0,0" Name="label2" VerticalAlignment="Top" />
+                <Label Content="Autor:" Height="28" HorizontalAlignment="Left" Margin="6,74,0,0" Name="label3" VerticalAlignment="Top" />
+                <Label Content="Tipo Libro:" Height="28" HorizontalAlignment="Left" Margin="6,108,0,0" Name="label4" VerticalAlignment="Top" />
+                <GroupBox Header="Impreso" Height="79" HorizontalAlignment="Left" Margin="6,142,0,0" Name="gbImpreso" VerticalAlignment="Top" Width="200" IsEnabled="False">
+                    <Grid>
+                        <Label Content="Cantidad Paginas:" Height="28" HorizontalAlignment="Left" Margin="6,6,0,0" Name="label5" VerticalAlignment="Top" />
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="115,11,0,0" Name="txtCantidadPaginas" VerticalAlignment="Top" Width="56" />
+                    </Grid>
+                </GroupBox>
+                <GroupBox Header="Digital" Height="75" HorizontalAlignment="Left" Margin="6,227,0,0" Name="gbDigital" VerticalAlignment="Top" Width="200" IsEnabled="False">
+                    <Grid>
+                        <Label Content="Tamaño MB:" Height="28" HorizontalAlignment="Left" Margin="5,13,0,0" Name="label6" VerticalAlignment="Top" />
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="115,18,0,0" Name="txtTamanoMB" VerticalAlignment="Top" Width="56" />
+                    </Grid>
+                </GroupBox>
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="55,11,0,0" Name="txtTitulo" VerticalAlignment="Top" Width="120" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="55,45,0,0" Name="txtAño" VerticalAlignment="Top" Width="67" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="55,76,0,0" Name="txtAutor" VerticalAlignment="Top" Width="120" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="80,113,0,0" Name="cboTipoLibro" VerticalAlignment="Top" Width="120" SelectionChanged="cboTipoLibro_SelectionChanged" />
+            </Grid>
+        </GroupBox>
+        <ListBox Height="238" HorizontalAlignment="Left" Margin="341,50,0,0" Name="lstListado" VerticalAlignment="Top" Width="195" />
+        <Button Content="Grabar" Height="23" HorizontalAlignment="Left" Margin="36,391,0,0" Name="btnGrabar" VerticalAlignment="Top" Width="75" Click="btnGrabar_Click" />
+        <Button Content="Limpiar" Height="23" HorizontalAlignment="Right" Margin="0,391,411,0" Name="btnLimpiar" VerticalAlignment="Top" Width="75" />
+        <Button Content="Listar" Height="23" HorizontalAlignment="Left" Margin="198,391,0,0" Name="btnListar" VerticalAlignment="Top" Width="75" Click="btnListar_Click" />
+    </Grid>
+</Window>

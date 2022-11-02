@@ -1,0 +1,37 @@
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\bin\Debug\Vision.exe
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\bin\Debug\Vision.pdb
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\MainWindow.baml
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\App.g.cs
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision_MarkupCompile.cache
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.g.resources
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.Properties.Resources.resources
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.exe
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.pdb
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\bin\Debug\BIBLIOTECA CLASES.dll
+C:\Users\Duoc\Desktop\SOLUCION TRANSPORTE\Vision\bin\Debug\BIBLIOTECA CLASES.pdb
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.exe
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.pdb
+F:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.exe
+F:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.pdb
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\bin\Debug\Vision.exe
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\bin\Debug\Vision.pdb
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\bin\Debug\BIBLIOTECA CLASES.dll
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\bin\Debug\BIBLIOTECA CLASES.pdb
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.csprojResolveAssemblyReference.cache
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\MainWindow.baml
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\MainWindow.g.cs
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\App.g.cs
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision_MarkupCompile.cache
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.g.resources
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.Properties.Resources.resources
+G:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.csproj.GenerateResource.Cache
+H:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.exe
+H:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.pdb
+E:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.exe
+E:\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.pdb
+D:\Respaldo\Respaldo Duoc\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.exe
+D:\Respaldo\Respaldo Duoc\POO .NET 2\SOLUCION TRANSPORTE\Vision\obj\x86\Debug\Vision.pdb

@@ -1,0 +1,5 @@
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\bin\Release\Vista.exe.config
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Release\MainWindow.g.cs
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Release\App.g.cs
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Release\Vista_MarkupCompile.cache
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Vista\obj\Release\Vista_MarkupCompile.lref

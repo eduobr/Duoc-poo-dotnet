@@ -1,0 +1,7 @@
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Controlador\bin\Debug\Biblioteca Controlador.dll
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Controlador\bin\Debug\Biblioteca Controlador.pdb
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Controlador\bin\Debug\Biblioteca Modelo.dll
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Controlador\bin\Debug\Biblioteca Modelo.pdb
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Controlador\obj\Debug\ResolveAssemblyReference.cache
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Controlador\obj\Debug\Biblioteca Controlador.dll
+D:\POO .NET 2\Solucion MVC 1\Biblioteca Controlador\obj\Debug\Biblioteca Controlador.pdb

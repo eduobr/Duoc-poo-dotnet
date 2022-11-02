@@ -1,0 +1,7 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Solución Control_03\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Solución Control_03\Tester\bin\Debug\Tester.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solución Control_03\Tester\bin\Debug\Tester.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Solución Control_03\Tester\bin\Debug\Biblioteca.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Solución Control_03\Tester\bin\Debug\Biblioteca.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Solución Control_03\Tester\obj\x86\Debug\Tester.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solución Control_03\Tester\obj\x86\Debug\Tester.pdb

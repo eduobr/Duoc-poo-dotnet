@@ -1,0 +1,14 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 4\Proyecto Clase 4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 4\Proyecto Clase 4\bin\Debug\Proyecto Clase 4.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 4\Proyecto Clase 4\bin\Debug\Proyecto Clase 4.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 4\Proyecto Clase 4\obj\x86\Debug\Proyecto Clase 4.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion Clase 4\Proyecto Clase 4\obj\x86\Debug\Proyecto Clase 4.pdb
+G:\POO .NET 2\Solucion Clase 4\Proyecto Clase 4\obj\x86\Debug\Proyecto Clase 4.exe
+G:\POO .NET 2\Solucion Clase 4\Proyecto Clase 4\obj\x86\Debug\Proyecto Clase 4.pdb
+D:\POO .NET 2\Solucion Clase 4\Proyecto Clase 4\obj\x86\Debug\Proyecto Clase 4.exe
+D:\POO .NET 2\Solucion Clase 4\Proyecto Clase 4\obj\x86\Debug\Proyecto Clase 4.pdb
+D:\POO .NET 2\Solucion Clase 4\Proyecto Clase 4\bin\Debug\Proyecto Clase 4.exe
+D:\POO .NET 2\Solucion Clase 4\Proyecto Clase 4\bin\Debug\Proyecto Clase 4.pdb
+D:\POO .NET 2\Solucion Clase 4\Proyecto Clase 4\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\POO .NET 2\Solucion Clase 4\Proyecto Clase 4\obj\x86\Debug\Proyecto Clase 4.exe
+E:\POO .NET 2\Solucion Clase 4\Proyecto Clase 4\obj\x86\Debug\Proyecto Clase 4.pdb

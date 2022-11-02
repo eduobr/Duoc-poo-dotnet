@@ -1,0 +1,4 @@
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\BIBLIOTECA\bin\Debug\BIBLIOTECA.dll
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+c:\users\edd\documents\visual studio 2010\Projects\Solucion CP03\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb

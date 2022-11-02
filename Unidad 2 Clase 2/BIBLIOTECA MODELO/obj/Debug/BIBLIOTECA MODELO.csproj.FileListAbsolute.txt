@@ -1,0 +1,5 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\BIBLIOTECA MODELO\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\BIBLIOTECA MODELO\bin\Debug\BIBLIOTECA MODELO.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\BIBLIOTECA MODELO\bin\Debug\BIBLIOTECA MODELO.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\BIBLIOTECA MODELO\obj\Debug\BIBLIOTECA MODELO.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\BIBLIOTECA MODELO\obj\Debug\BIBLIOTECA MODELO.pdb

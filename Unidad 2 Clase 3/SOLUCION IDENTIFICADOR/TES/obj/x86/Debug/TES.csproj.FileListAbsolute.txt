@@ -1,0 +1,13 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\TES\bin\Debug\TES.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\TES\bin\Debug\TES.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\TES\bin\Debug\BIBLIOTECA CLASES.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\TES\bin\Debug\BIBLIOTECA CLASES.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\TES\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\TES\obj\x86\Debug\TES.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\TES\obj\x86\Debug\TES.pdb
+F:\POO .NET 2\Unidad 2 Clase 3\SOLUCION IDENTIFICADOR\TES\obj\x86\Debug\TES.exe
+F:\POO .NET 2\Unidad 2 Clase 3\SOLUCION IDENTIFICADOR\TES\obj\x86\Debug\TES.pdb
+G:\POO .NET 2\Unidad 2 Clase 3\SOLUCION IDENTIFICADOR\TES\obj\x86\Debug\TES.exe
+G:\POO .NET 2\Unidad 2 Clase 3\SOLUCION IDENTIFICADOR\TES\obj\x86\Debug\TES.pdb
+E:\POO .NET 2\Unidad 2 Clase 3\SOLUCION IDENTIFICADOR\TES\obj\x86\Debug\TES.exe
+E:\POO .NET 2\Unidad 2 Clase 3\SOLUCION IDENTIFICADOR\TES\obj\x86\Debug\TES.pdb

@@ -1,0 +1,11 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion clase5\clase5\bin\Debug\clase5.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion clase5\clase5\bin\Debug\clase5.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion clase5\clase5\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion clase5\clase5\obj\x86\Debug\clase5.exe
+c:\users\duoc\documents\visual studio 2010\Projects\Solucion clase5\clase5\obj\x86\Debug\clase5.pdb
+G:\POO .NET 2\Solucion clase 5\clase5\obj\x86\Debug\clase5.exe
+G:\POO .NET 2\Solucion clase 5\clase5\obj\x86\Debug\clase5.pdb
+D:\POO .NET 2\Solucion clase 5\clase5\obj\x86\Debug\clase5.exe
+D:\POO .NET 2\Solucion clase 5\clase5\obj\x86\Debug\clase5.pdb
+E:\POO .NET 2\Solucion clase 5\clase5\obj\x86\Debug\clase5.exe
+E:\POO .NET 2\Solucion clase 5\clase5\obj\x86\Debug\clase5.pdb

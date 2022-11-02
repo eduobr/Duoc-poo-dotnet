@@ -1,0 +1,5 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\BIBLIOTECA CLASES\bin\Debug\BIBLIOTECA CLASES.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\BIBLIOTECA CLASES\bin\Debug\BIBLIOTECA CLASES.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\BIBLIOTECA CLASES\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\BIBLIOTECA CLASES\obj\Debug\BIBLIOTECA CLASES.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION IDENTIFICADOR\BIBLIOTECA CLASES\obj\Debug\BIBLIOTECA CLASES.pdb

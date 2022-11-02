@@ -1,0 +1,13 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\Test\bin\Debug\Test.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\Test\bin\Debug\Test.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\Test\bin\Debug\BIBLIOTECA MODELO.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\Test\bin\Debug\BIBLIOTECA MODELO.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\Test\obj\x86\Debug\Test.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION DISCOGRAFICA\Test\obj\x86\Debug\Test.pdb
+E:\ULTIMOOOO\NETTTT\Unidad 2\SOLUCION DISCOGRAFICA\Test\obj\x86\Debug\Test.exe
+E:\ULTIMOOOO\NETTTT\Unidad 2\SOLUCION DISCOGRAFICA\Test\obj\x86\Debug\Test.pdb
+G:\POO .NET 2\Unidad 2 Clase 2\Test\obj\x86\Debug\Test.exe
+G:\POO .NET 2\Unidad 2 Clase 2\Test\obj\x86\Debug\Test.pdb
+E:\POO .NET 2\Unidad 2 Clase 2\Test\obj\x86\Debug\Test.exe
+E:\POO .NET 2\Unidad 2 Clase 2\Test\obj\x86\Debug\Test.pdb

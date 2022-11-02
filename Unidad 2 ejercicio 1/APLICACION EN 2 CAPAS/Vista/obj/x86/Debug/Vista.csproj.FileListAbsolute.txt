@@ -1,0 +1,21 @@
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\MainWindow.baml
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\App.g.cs
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\Vista_MarkupCompile.cache
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\Vista.g.resources
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\bin\Debug\Vista.exe
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\bin\Debug\Vista.pdb
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\Vista.exe
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\Vista.pdb
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\wpfTaxi.baml
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\wpfTaxi.g.cs
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\bin\Debug\BIBLIOTECA EJERCICIO.dll
+C:\Users\Duoc\Desktop\APLICACION EN 2 CAPAS\Vista\bin\Debug\BIBLIOTECA EJERCICIO.pdb
+F:\POO .NET 2\Unidad 2 ejercicio 1\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\Vista.exe
+F:\POO .NET 2\Unidad 2 ejercicio 1\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\Vista.pdb
+G:\POO .NET 2\Unidad 2 ejercicio 1\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\Vista.exe
+G:\POO .NET 2\Unidad 2 ejercicio 1\APLICACION EN 2 CAPAS\Vista\obj\x86\Debug\Vista.pdb

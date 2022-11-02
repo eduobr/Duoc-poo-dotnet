@@ -1,0 +1,19 @@
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Biblioteca Semestre 3\bin\Debug\Biblioteca Semestre 3.dll
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Biblioteca Semestre 3\bin\Debug\Biblioteca Semestre 3.pdb
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.dll
+C:\Users\LC1300XXXX\Desktop\Solucion -  Semestre 3\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.pdb
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Biblioteca Semestre 3\bin\Debug\Biblioteca Semestre 3.dll
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Biblioteca Semestre 3\bin\Debug\Biblioteca Semestre 3.pdb
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.dll
+C:\Users\LC1300XXXX\Downloads\Solucion -  Semestre 3\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.pdb
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Biblioteca Semestre 3\bin\Debug\Biblioteca Semestre 3.dll
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Biblioteca Semestre 3\bin\Debug\Biblioteca Semestre 3.pdb
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.csprojResolveAssemblyReference.cache
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.dll
+E:\Duoc temp\Primer2017\NET\TERCERA UNIDAD\Solucion -  Semestre 33\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.pdb
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Biblioteca Semestre 3\bin\Debug\Biblioteca Semestre 3.dll
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Biblioteca Semestre 3\bin\Debug\Biblioteca Semestre 3.pdb
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.dll
+C:\Users\Edd\Desktop\Solucion -  Semestre 33\Biblioteca Semestre 3\obj\Debug\Biblioteca Semestre 3.pdb

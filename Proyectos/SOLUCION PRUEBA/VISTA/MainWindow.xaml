@@ -1,0 +1,44 @@
+﻿<Window x:Class="VISTA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="448" Width="608" Background="#FF00C800">
+    <Grid>
+        <GroupBox Header="BUS" Height="339" HorizontalAlignment="Left" Margin="8,7,0,0" Name="groupBox1" VerticalAlignment="Top" Width="369">
+            <Grid>
+                <Label Content="Patente" Height="28" HorizontalAlignment="Left" Margin="10,1,0,0" Name="label1" VerticalAlignment="Top" />
+                <Label Content="Chofer" Height="28" HorizontalAlignment="Left" Margin="10,32,0,0" Name="label2" VerticalAlignment="Top" />
+                <Label Content="Fecha:" Height="28" HorizontalAlignment="Left" Margin="10,59,0,0" Name="label3" VerticalAlignment="Top" />
+                <Label Content="Precio" Height="28" HorizontalAlignment="Left" Margin="10,93,0,0" Name="label4" VerticalAlignment="Top" />
+                <Label Content="Hora" Height="28" HorizontalAlignment="Left" Margin="131,93,0,0" Name="label5" VerticalAlignment="Top" />
+                <Label Content="Tipo Bus" Height="28" HorizontalAlignment="Left" Margin="15,125,0,0" Name="label6" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="61,6,0,0" Name="txtPatente" VerticalAlignment="Top" Width="120" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="61,37,0,0" Name="txtChofer" VerticalAlignment="Top" Width="120" />
+                <DatePicker Height="25" HorizontalAlignment="Left" Margin="61,62,0,0" Name="dpFecha" VerticalAlignment="Top" Width="115" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="61,93,0,0" Name="txtPrecio" VerticalAlignment="Top" Width="56" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="173,93,0,0" Name="txtHora" VerticalAlignment="Top" Width="36" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="101,125,0,0" Name="cboTipoBus" VerticalAlignment="Top" Width="120" SelectionChanged="cboTipoBus_SelectionChanged" />
+                <GroupBox Header="Internacional" Height="65" HorizontalAlignment="Left" Margin="15,156,0,0" Name="gbInternacional" VerticalAlignment="Top" Width="314" IsEnabled="False">
+                    <Grid>
+                        <Label Content="Pais" Height="28" HorizontalAlignment="Left" Margin="6,6,0,0" Name="label7" VerticalAlignment="Top" />
+                        <ComboBox Height="23" HorizontalAlignment="Left" Margin="40,6,0,0" Name="cboPais" VerticalAlignment="Top" Width="99" />
+                        <Label Content="Ciudad" Height="28" HorizontalAlignment="Left" Margin="147,6,0,0" Name="label8" VerticalAlignment="Top" />
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="200,8,0,0" Name="txtCiudad" VerticalAlignment="Top" Width="82" />
+                    </Grid>
+                </GroupBox>
+                <GroupBox Header="Nacional" Height="66" HorizontalAlignment="Left" Margin="15,227,0,0" Name="gbNacional" VerticalAlignment="Top" Width="308" IsEnabled="False">
+                    <Grid>
+                        <Label Content="Terminal" Height="28" HorizontalAlignment="Left" Margin="7,8,0,0" Name="label9" VerticalAlignment="Top" />
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="64,8,0,0" Name="txtTerminal" VerticalAlignment="Top" Width="91" />
+                        <Label Content="Destino" Height="28" HorizontalAlignment="Left" Margin="160,6,0,0" Name="label10" VerticalAlignment="Top" />
+                        <ComboBox Height="23" HorizontalAlignment="Left" Margin="220,8,0,0" Name="cboDestino" VerticalAlignment="Top" Width="70" />
+                    </Grid>
+                </GroupBox>
+            </Grid>
+        </GroupBox>
+        <Button Content="Grabar" Height="23" HorizontalAlignment="Left" Margin="16,357,0,0" Name="btnGrabar" VerticalAlignment="Top" Width="75" Click="btnGrabar_Click" />
+        <Button Content="Listar" Height="23" HorizontalAlignment="Left" Margin="99,357,0,0" Name="btnListar" VerticalAlignment="Top" Width="75" Click="btnListar_Click" />
+        <ListBox Height="229" HorizontalAlignment="Left" Margin="386,14,0,0" Name="lstListado" VerticalAlignment="Top" Width="172" />
+        <Button Content="Estadisticas" Height="23" HorizontalAlignment="Left" Margin="386,249,0,0" Name="btnEstadisticas" VerticalAlignment="Top" Width="172" Click="btnEstadisticas_Click" />
+        <ListBox Height="70" HorizontalAlignment="Left" Margin="386,276,0,0" Name="lstEstadisticas" VerticalAlignment="Top" Width="172" />
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIBLIOTECA", "BIBLIOTECA\BIBLIOTECA.csproj", "{CC6F3CC9-8164-47C1-85BD-8767E517E935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CONTROLADOR", "CONTROLADOR\CONTROLADOR.csproj", "{E44EFA1F-C032-4C91-B63E-813A338F877F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6F3CC9-8164-47C1-85BD-8767E517E935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6F3CC9-8164-47C1-85BD-8767E517E935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6F3CC9-8164-47C1-85BD-8767E517E935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6F3CC9-8164-47C1-85BD-8767E517E935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44EFA1F-C032-4C91-B63E-813A338F877F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44EFA1F-C032-4C91-B63E-813A338F877F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44EFA1F-C032-4C91-B63E-813A338F877F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44EFA1F-C032-4C91-B63E-813A338F877F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

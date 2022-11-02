@@ -1,0 +1,66 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\bin\Debug\Vista.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\bin\Debug\Vista.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\bin\Debug\BibClases.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\bin\Debug\BibClases.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\MainWindow.baml
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\MainWindow.g.cs
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\App.g.cs
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\Vista_MarkupCompile.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\Vista.g.resources
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\Vista.exe
+c:\users\duoc\documents\visual studio 2010\Projects\SolucionControl_03\Vista\obj\x86\Debug\Vista.pdb
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.exe
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.pdb
+E:\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\Vista.exe
+E:\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\Vista.pdb
+E:\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\BibClases.dll
+E:\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\BibClases.pdb
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\MainWindow.baml
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\MainWindow.g.cs
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\App.g.cs
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista_MarkupCompile.cache
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.g.resources
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.exe
+E:\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.pdb
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.exe
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.pdb
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\Vista.exe
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\Vista.pdb
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\BibClases.dll
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\BibClases.pdb
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.csprojResolveAssemblyReference.cache
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\MainWindow.baml
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\MainWindow.g.cs
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\App.g.cs
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista_MarkupCompile.cache
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.g.resources
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+G:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.csproj.GenerateResource.Cache
+H:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.exe
+H:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.pdb
+E:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.exe
+E:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.pdb
+F:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.exe
+F:\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.pdb
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.exe
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.pdb
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\Vista.exe
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\Vista.pdb
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\BibClases.dll
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\bin\Debug\BibClases.pdb
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.csprojResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\MainWindow.baml
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\MainWindow.g.cs
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\App.g.cs
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista_MarkupCompile.cache
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.g.resources
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+D:\Respaldo\Respaldo Duoc\POO .NET 2\PRUEBA 3\AlejandroArevalo\SolucionControl_03\Vista\obj\x86\Debug\Vista.csproj.GenerateResource.Cache

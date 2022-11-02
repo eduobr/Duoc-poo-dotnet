@@ -1,0 +1,7 @@
+E:\Carlos Zuñiga\Solucion Control 3\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Carlos Zuñiga\Solucion Control 3\Test\bin\Debug\Test.exe
+E:\Carlos Zuñiga\Solucion Control 3\Test\bin\Debug\Test.pdb
+E:\Carlos Zuñiga\Solucion Control 3\Test\bin\Debug\Biblioteca.dll
+E:\Carlos Zuñiga\Solucion Control 3\Test\bin\Debug\Biblioteca.pdb
+E:\Carlos Zuñiga\Solucion Control 3\Test\obj\x86\Debug\Test.exe
+E:\Carlos Zuñiga\Solucion Control 3\Test\obj\x86\Debug\Test.pdb

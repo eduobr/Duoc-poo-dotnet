@@ -1,0 +1,37 @@
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\Vista.exe
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\Vista.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\CONTROLADOR.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\bin\Debug\CONTROLADOR.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\MainWindow.baml
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\App.g.cs
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista_MarkupCompile.cache
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.g.resources
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.exe
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.pdb
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.exe
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.pdb
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\bin\Debug\Vista.exe
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\bin\Debug\Vista.pdb
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\bin\Debug\BIBLIOTECA.dll
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\bin\Debug\CONTROLADOR.dll
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\bin\Debug\BIBLIOTECA.pdb
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\bin\Debug\CONTROLADOR.pdb
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.csprojResolveAssemblyReference.cache
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\MainWindow.baml
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\MainWindow.g.cs
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\App.g.cs
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista_MarkupCompile.cache
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.g.resources
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.csproj.GenerateResource.Cache
+E:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.exe
+E:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.pdb
+D:\Respaldo\Respaldo Duoc\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.exe
+D:\Respaldo\Respaldo Duoc\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Vista\obj\x86\Debug\Vista.pdb

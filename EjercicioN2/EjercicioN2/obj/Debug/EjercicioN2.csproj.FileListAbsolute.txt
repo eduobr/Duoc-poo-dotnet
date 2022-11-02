@@ -1,0 +1,9 @@
+c:\users\eduardo\documents\visual studio 2013\Projects\EjercicioN2\EjercicioN2\bin\Debug\EjercicioN2.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\EjercicioN2\EjercicioN2\bin\Debug\EjercicioN2.exe
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\EjercicioN2\EjercicioN2\bin\Debug\EjercicioN2.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\EjercicioN2\EjercicioN2\obj\Debug\EjercicioN2.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\EjercicioN2\EjercicioN2\obj\Debug\EjercicioN2.exe
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\EjercicioN2\EjercicioN2\obj\Debug\EjercicioN2.pdb
+D:\Respaldo\Respaldo Duoc\POO .NET 2\EjercicioN2\EjercicioN2\bin\Debug\EjercicioN2.exe.config
+D:\Respaldo\Respaldo Duoc\POO .NET 2\EjercicioN2\EjercicioN2\obj\Debug\EjercicioN2.exe
+D:\Respaldo\Respaldo Duoc\POO .NET 2\EjercicioN2\EjercicioN2\obj\Debug\EjercicioN2.pdb

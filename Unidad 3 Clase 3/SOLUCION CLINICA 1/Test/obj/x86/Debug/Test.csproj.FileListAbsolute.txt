@@ -1,0 +1,18 @@
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Test\bin\Debug\Test.exe
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Test\bin\Debug\Test.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Test\bin\Debug\BIBLIOTECA.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Test\bin\Debug\CONTROLADOR.dll
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Test\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Test\bin\Debug\CONTROLADOR.pdb
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Test\obj\x86\Debug\Test.exe
+C:\Users\Duoc\Downloads\SOLUCION CLINICA 1\Test\obj\x86\Debug\Test.pdb
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Test\bin\Debug\Test.exe
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Test\bin\Debug\Test.pdb
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Test\bin\Debug\BIBLIOTECA.dll
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Test\bin\Debug\CONTROLADOR.dll
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Test\bin\Debug\BIBLIOTECA.pdb
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Test\bin\Debug\CONTROLADOR.pdb
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Test\obj\x86\Debug\Test.exe
+G:\POO .NET 2\Unidad 3 Clase 3\SOLUCION CLINICA 1\Test\obj\x86\Debug\Test.pdb

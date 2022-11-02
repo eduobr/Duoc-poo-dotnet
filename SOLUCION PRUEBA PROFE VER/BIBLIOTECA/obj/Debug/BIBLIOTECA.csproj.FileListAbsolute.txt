@@ -1,0 +1,10 @@
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\BIBLIOTECA\bin\Debug\BIBLIOTECA.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\BIBLIOTECA\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+c:\users\duoc\documents\visual studio 2010\Projects\SOLUCION PRUEBA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\BIBLIOTECA\bin\Debug\BIBLIOTECA.dll
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+F:\POO .NET 2\SOLUCION PRUEBA PROFE VER\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
